@@ -26,7 +26,7 @@ function App() {
             </NavDropdown>
             <Nav.Link href="##futuro sub pag">Quienes somos</Nav.Link>
             <Nav.Link href="##futuro sub pag">Locales</Nav.Link>
-            <Nav.Link href="##futuro sub pag">Contactanos Us</Nav.Link>
+            <Nav.Link href="##futuro sub pag">Contactanos</Nav.Link>
           </Nav>
         </Navbar.Collapse>
 
